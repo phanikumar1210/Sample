@@ -1,0 +1,4 @@
+URL=rds-inst.cj7kihlobguy.us-east-1.rds.amazonaws.com
+USERNAME=miracleadmin
+PASSWORD=Password
+PORT=3306

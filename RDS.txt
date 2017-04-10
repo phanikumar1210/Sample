@@ -1,0 +1,5 @@
+URL=rds-instan.c51de7ziwb3i.us-east-1.rds.amazonaws.com
+PORT=3306
+USERNAME=miracleuser
+PASSWORD=miraclepassword
+DATABASE=Login
